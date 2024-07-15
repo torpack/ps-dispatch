@@ -1,5 +1,5 @@
 # ps-dispatch
-[Discord Server](https://discord.gg/wilddevelopment)
+[Discord Server](https://discord.gg/nexusdev)
 ## Wild Development Presents
 Shot Fire
 ![image1](https://cdn.discordapp.com/attachments/967509707340263515/1047809862115020820/image.png)
